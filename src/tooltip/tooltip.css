@@ -1,0 +1,52 @@
+.toolTipWraraper{
+    box-shadow: 0px 0px 17px #15abc4 ;
+    width:300px;
+    position: absolute;
+    padding: 5px;
+    background-color: white;
+    border-radius: 25px;
+    z-index: 5000;
+   }    
+   .toolTipWraraper div{
+       display: flex;
+       justify-content: center;
+       
+   }
+   .mainText{
+        font-family: "fbspoileren-regular-webfont"; 
+   }
+   @media (orientation: portrait) and (max-width: 479px){
+    .mainText{
+        font-size: 10.3pt; 
+   }
+   }
+   @media (orientation: portrait) and (min-width: 480px) and (max-width: 599px){
+    .mainText{
+        font-size: 12.3pt; 
+    }
+   }
+   @media (orientation: portrait) and (min-width: 600px) and (max-width: 719px){
+    .mainText{
+        font-size: 14.3pt; 
+    }
+   }
+   @media (orientation: portrait) and (min-width: 720px) and (max-width: 1023px){
+    .mainText{
+        font-size: 16.3pt; 
+    }
+   }
+   @media (orientation: portrait) and (min-width: 1024px){
+    .mainText{
+        font-size: 18.3pt; 
+    }
+   }
+   .arrow-down {
+    width: 0;
+    height: 0;
+    position: absolute;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 12px solid white;
+    z-index: 6000;
+    }
+   

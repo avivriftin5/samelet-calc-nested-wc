@@ -1,0 +1,46 @@
+   /* Customize to your liking */
+   button{
+    margin-top:10px;
+    background-color: #15abc4;
+    border:1px solid #f0f0f0;
+    color:white;
+    border-radius: 20px;
+    font-family: "fbspoileren-bold-webfont"; 
+    height: 30px;
+}
+@media (orientation: portrait) and (max-width: 479px){
+  button{  
+    font-size: 13.1pt;
+    width:80%;
+ }
+}
+@media (orientation: portrait) and (min-width: 480px) and (max-width: 599px){
+button{  
+    font-size: 12pt;
+    width:80%;
+ }
+}
+@media (orientation: portrait) and (min-width: 600px) and (max-width: 719px){
+button{  
+    font-size: 12pt;
+    width:80%;
+ }
+}
+@media (orientation: portrait) and (min-width: 720px) and (max-width: 1023px){
+button{  
+    font-size: 12pt;
+    width:80%;
+ }
+}
+@media (orientation: portrait) and (min-width: 1024px){
+button{  
+    font-size: 12pt;
+    width:80%;
+ }
+}
+@media (orientation: landscape) {
+button{  
+    font-size: 12pt;
+    width:80%;
+ }
+}

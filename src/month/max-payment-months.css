@@ -1,0 +1,61 @@
+a{
+     text-decoration: none;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.bubbleContainer{
+ display: flex;
+    justify-content: center;
+    /* width: 50px; */
+    background-color: #15abc4;
+    border: 1px solid #15abc4;
+    color: white;
+    border-radius: 5px;
+    font-family: "fbspoileren-regular-webfont";
+    font-size: 16px;
+    font-weight: bold;
+    height: 25px;
+    margin-top: -6px;
+}
+.arrowDown {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #15abc4;
+    margin-left: 40%;
+}
+
+@media (orientation: portrait){
+   .topspace{
+        height: 25px;
+   }
+}
+@media (orientation: landscape){
+   .topspace{
+        height: 26px;
+   }
+}
+
+.greenLine{
+     background-color: #15abc4;
+     height: 5px;
+     width:100%;
+}
+.grayLine{
+     background-color: #5d5d5d;
+     height: 5px;
+     width:100%;
+}
+.textLine{
+    color: #5d5d5d;
+    font-size: 14px;
+    direction: rtl;
+    font-family: "fbspoileren-regular-webfont";
+    text-decoration: underline;
+}

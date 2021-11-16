@@ -1,0 +1,897 @@
+
+@media (orientation: portrait) and (max-width: 479px){
+    .maintitle{
+        padding-top: 25px;
+        font-size: 15.8pt; 
+    }
+    .linesContainer{
+        font-size: 14.05pt;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
+
+    }
+    .infoModalWrapper{
+        padding-top: 24px;
+        padding-right: 30px;
+
+    } 
+
+    .infoModalWrapperLeft{
+        padding-top: 24px;
+        padding-right: 30px;
+    }
+
+    .infoModalWrapperLeftFinal{
+        padding-top: 24px;
+        padding-right: 30px;
+    }
+
+    
+    
+    .infoModalWrapper span{
+        font-size: 11.22pt;
+    }
+
+    .infoModalWrapperLeft span{
+        font-size: 11.22pt;
+    }
+
+    .infoModalWrapperLeftFinal span{
+        font-size: 11.22pt;
+    }
+
+    .iIconImage{
+    max-width: 100%;
+    margin-right: -18px;
+    }
+    .amountContainer{
+        font-size: 25.5pt; 
+    }
+    .paymentMonthContainer{
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    button{
+        width: 70%;
+        height: 40px;
+        margin-top: 20px;
+    }
+    .greenTitle{
+        font-size: 10.5pt;
+    }
+    .logoContainer{
+        width:100%;
+    }
+} 
+
+@media (orientation: portrait) and (min-width: 480px) and (max-width: 599px){
+    .maintitle{
+        padding-top: 25px;
+        font-size: 21pt; 
+    }
+    .linesContainer{
+        font-size: 18.75pt;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
+
+    }
+    .infoModalWrapper{
+    padding-top: 33px;
+    padding-right: 40px;
+
+    } 
+    .infoModalWrapperLeft{
+        padding-top: 33px;
+        padding-right: 40px;
+    }
+
+    .infoModalWrapperLeftFinal{
+        padding-top: 33px;
+        padding-right: 40px;
+    }
+    
+    .infoModalWrapper span{
+        font-size: 14.9pt;
+    }
+    .infoModalWrapperLeft span{
+        font-size: 14.9pt;
+    }
+
+    .infoModalWrapperLeftFinal span{
+        font-size: 14.9pt;
+    }
+
+    .iIconImage{
+    max-width: 100%;
+    margin-right: -18px;
+    }
+    .amountContainer{
+        font-size: 34.0pt; 
+    }
+    .paymentMonthContainer{
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+    button{
+        width: 60%;
+        height: 40px;
+        margin-top: 20px;
+    }
+    .greenTitle{
+        font-size: 14.0pt;
+    }
+    .logoContainer{
+        width:100%;
+    }
+}
+@media (orientation: portrait) and (min-width: 600px) and (max-width: 719px){
+    .maintitle{
+        padding-top: 25px;
+        font-size: 26.3pt; 
+    }
+    .linesContainer{
+        font-size: 23.4pt;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
+
+    }
+    .infoModalWrapper{
+    padding-top: 38.1px;
+    padding-right: 48px;
+
+    } 
+
+    .infoModalWrapperLeft{
+        padding-top: 38.1px;
+       padding-right: 48px;
+    }
+
+    .infoModalWrapperLeftFinal{
+        padding-top: 38.1px;
+       padding-right: 48px;
+    }
+    
+    .infoModalWrapper span{
+        font-size: 18.7pt;
+    }
+
+    .infoModalWrapperLeft span{
+        font-size: 18.7pt;
+    }
+
+    .infoModalWrapperLeftFinal span{
+        font-size: 18.7pt;
+    }
+
+    .iIconImage{
+    max-width: 85%;
+    margin-right: -7px;
+    }
+    .amountContainer{
+        font-size: 42.5pt; 
+    }
+    .paymentMonthContainer{
+        padding-right: 48px;
+        padding-left: 48px;
+    }
+    button{
+        width: 55%;
+        height: 40px;
+        margin-top: 20px;
+    }
+    .greenTitle{
+        font-size: 17.5pt;
+    }
+    .logoContainer{
+        width:100%;
+    }
+}
+@media (orientation: portrait) and (min-width: 720px) and (max-width: 1023px){
+    .maintitle{
+        font-size: 31.6pt; 
+        padding-top: 25px;
+    }
+    .linesContainer{
+        font-size: 28.1pt;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
+
+    }
+    .infoModalWrapper{
+    padding-top: 50px;
+    padding-right: 88px;
+
+    } 
+
+    .infoModalWrapperLeft{
+        padding-top: 50px;
+        padding-right: 88px;
+
+    }
+
+    .infoModalWrapperLeftFinal{
+        padding-top: 50px;
+        padding-right: 88px;
+    }
+    
+    .infoModalWrapper span{
+        font-size: 22.4pt;
+    }
+
+    .infoModalWrapperLeft span{
+        font-size: 22.4pt;
+    }
+
+    .infoModalWrapperLeftFinal span{
+        font-size: 22.4pt;
+    }
+
+    .iIconImage{
+    max-width: 97%;
+    margin-right: 3px;
+    }
+    .amountContainer{
+        font-size: 42.5pt; 
+    }
+    .paymentMonthContainer{
+        padding-right: 88px;
+        padding-left: 88px;
+    }
+    button{
+        width: 50%;
+        height: 40px;
+        margin-top: 20px;
+    }
+    .greenTitle{
+        font-size: 21.1pt;
+    }
+    .logoContainer{
+        width:100%;
+    }
+}
+@media (orientation: portrait) and (min-width: 1024px){
+    .maintitle{
+        padding-top: 25px;
+        font-size: 45.1pt; 
+    }
+    .linesContainer{
+        font-size: 40.0pt;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
+
+    }
+    .infoModalWrapper{
+    padding-top: 60px;
+    padding-right: 120px;
+
+    } 
+
+    .infoModalWrapperLeft{
+        padding-top: 60px;
+        padding-right: 120px;
+
+    }
+
+    .infoModalWrapperLeftFinal{
+        padding-top: 60px;
+        padding-right: 120px;
+    }
+    
+    .infoModalWrapper span{
+        font-size: 32.0pt;
+    }
+
+    .infoModalWrapperLeft span{
+        font-size: 32.0pt;
+    }
+    .infoModalWrapperLeftFinal span{
+        font-size: 32.0pt;
+    }
+
+    .iIconImage{
+    max-width: 97%;
+    margin-right: 3px;
+    }
+    .amountContainer{
+        font-size: 72.6pt; 
+    }
+    .paymentMonthContainer{
+        padding-right: 120px;
+        padding-left: 120px;
+    }
+    button{
+        width: 45%;
+        height: 40px;
+        margin-top: 20px;
+    }
+    .greenTitle{
+        font-size: 30.0pt;
+    }
+    .logoContainer{
+        width:100%;
+    }
+}
+@media (orientation: landscape) and ( max-width: 1279px){
+    .maintitle{
+        padding-top: 45px;
+        font-size: 23.21pt; 
+    }
+    .linesContainer{
+        margin-top: 51px;
+        margin-right: 61px;
+        direction:rtl;
+        gap:5px;
+        font-size: 13.35pt;
+    }
+    .titleAndRangeContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        margin-top: 6px;
+    }
+    .infoModalWrapper{
+        padding-top: 28px;
+        padding-right: 61px;
+    } 
+    .infoModalWrapperLeft{
+        padding-top: 47px;
+    }
+    .infoModalWrapperLeftFinal{
+        padding-top: 10px;
+    }
+    .infoModalWrapper span{
+        font-size: 13.35pt;
+    }
+    .infoModalWrapperLeft span{
+        font-size: 13.35pt;
+    }
+    .infoModalWrapperLeftFinal span{
+        font-size: 13.35pt;
+    }
+    .iIconImage{
+        max-width: 50%;
+    }
+    .iconContainer{
+        text-align: right;
+    padding-top: 2px;
+    }
+
+    .columnLayout{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .rightColumn{
+        width:65%;
+    }
+
+    .leftColumn{
+        display:flex;
+        flex-direction: column;
+    }
+
+    .rangeSliderCWrapper{
+        width:50%;
+    }
+    .paymentMonthContainer{
+        width:50%;
+        margin-top:10px;
+    }
+    .amountContainer{
+        font-size: 31.14pt; 
+    }
+
+    button{
+        width: 95%;
+
+    }
+
+    .bottomTextsContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        padding-right: 61px;
+        gap:5px;
+        width:90%;
+    }
+    .greenTitle{
+        font-size: 8.5pt;
+        align-self: flex-end;
+    }
+
+    .buttomrowContainer{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .logoContainer img{
+        max-width: 60%;
+        height:auto;
+    }
+    
+}
+@media (orientation: landscape) and ( min-width: 1280px) and ( max-width: 1439px){
+    .maintitle{
+        padding-top: 94px;
+        font-size: 39.02pt; 
+    }
+    .linesContainer{
+        margin-top: 88px;
+        margin-right: 160px;
+        direction:rtl;
+        gap:5px;
+        font-size: 21.34pt;
+    }
+    .titleAndRangeContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        margin-top: 17px;
+        margin-bottom: 40px;
+    }
+    .infoModalWrapper{
+        padding-top: 28px;
+        padding-right: 160px;
+        width: 30%;
+    } 
+    .infoModalWrapperLeft{
+        padding-top: 47px;
+    }
+    .infoModalWrapperLeftFinal{
+        padding-top: 10px;
+    }
+    .infoModalWrapper span{
+        font-size: 21.34pt;
+    }
+    .infoModalWrapperLeft span{
+        font-size: 21.34pt;
+    }
+    .infoModalWrapperLeftFinal span{
+        font-size:21.34pt;
+    }
+    .iIconImage{
+        max-width: 50%;
+    }
+    .iconContainer{
+        text-align: right;
+    padding-top: 2px;
+    }
+
+    .columnLayout{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .rightColumn{
+        width:65%;
+    }
+
+    .leftColumn{
+        display:flex;
+        flex-direction: column;
+        margin-right: 10px;
+    }
+
+    .rangeSliderCWrapper{
+        width:50%;
+    }
+    .paymentMonthContainer{
+        width:50%;
+        margin-top:10px;
+    }
+    .amountContainer{
+        font-size: 49.79pt; 
+    }
+
+    button{
+        width: 85%;
+
+    }
+
+    .bottomTextsContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        padding-right: 160px;
+        gap:5px;
+        width:90%;
+    }
+    .greenTitle{
+        font-size: 13.5pt;
+        align-self: flex-end;
+    }
+
+    .buttomrowContainer{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .logoContainer img{
+        max-width: 60%;
+        height:auto;
+    }
+    
+}
+@media (orientation: landscape) and ( min-width: 1440px) and ( max-width: 1919px){
+    .maintitle{
+        padding-top: 112px;
+        font-size: 44.08pt; 
+    }
+    .linesContainer{
+        margin-top: 93px;
+        margin-right: 183px;
+        direction:rtl;
+        gap:5px;
+        font-size: 24.1pt;
+    }
+    .titleAndRangeContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        margin-top: 17px;
+        margin-bottom: 60px;
+    }
+    .infoModalWrapper{
+        padding-top: 28px;
+        padding-right: 183px;
+        width: 30%;
+    } 
+    .infoModalWrapperLeft{
+        padding-top: 47px;
+    }
+    .infoModalWrapperLeftFinal{
+        padding-top: 10px;
+    }
+    .infoModalWrapper span{
+        font-size: 24.1pt;
+    }
+    .infoModalWrapperLeft span{
+        font-size: 24.1pt;
+    }
+    .infoModalWrapperLeftFinal span{
+        font-size:24.1pt;
+    }
+    .iIconImage{
+        max-width: 70%;
+    }
+    .iconContainer{
+        text-align: right;
+        padding-top: 2px;
+    }
+
+    .columnLayout{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .rightColumn{
+        width:65%;
+    }
+
+    .leftColumn{
+        display:flex;
+        flex-direction: column;
+        margin-right: 10px;
+    }
+
+    .rangeSliderCWrapper{
+        width:50%;
+    }
+    .paymentMonthContainer{
+        width:50%;
+        margin-top:10px;
+    }
+    .amountContainer{
+        font-size: 56.24pt; 
+    }
+
+    button{
+        width: 75%;
+
+    }
+
+    .bottomTextsContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        padding-right: 183px;
+        gap:5px;
+        width:90%;
+    }
+    .greenTitle{
+        font-size: 16.5pt;
+        align-self: flex-end;
+    }
+
+    .buttomrowContainer{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .logoContainer img{
+        max-width: 60%;
+        height:auto;
+    }
+    
+}
+@media (orientation: landscape) and ( min-width: 1920px) and ( max-width: 2559px){
+    .maintitle{
+        padding-top: 151px;
+        font-size: 58.67pt; 
+    }
+    .linesContainer{
+        margin-top: 140px;
+        margin-right: 238px;
+        direction:rtl;
+        gap:5px;
+        font-size: 32pt;
+    }
+    .titleAndRangeContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        margin-top: 17px;
+        margin-bottom: 95px;
+    }
+    .infoModalWrapper{
+        padding-top: 28px;
+        padding-right: 183px;
+        width: 30%;
+    } 
+    .infoModalWrapperLeft{
+        padding-top: 47px;
+    }
+    .infoModalWrapperLeftFinal{
+        padding-top: 10px;
+    }
+    .infoModalWrapper span{
+        font-size: 32pt;
+    }
+    .infoModalWrapperLeft span{
+        font-size: 32pt;
+    }
+    .infoModalWrapperLeftFinal span{
+        font-size:32pt;
+    }
+    .iIconImage{
+        max-width: 70%;
+    }
+    .iconContainer{
+        text-align: right;
+        padding-top: 2px;
+    }
+
+    .columnLayout{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .rightColumn{
+        width:65%;
+    }
+
+    .leftColumn{
+        display:flex;
+        flex-direction: column;
+        margin-right: 10px;
+    }
+
+    .rangeSliderCWrapper{
+        width:50%;
+    }
+    .paymentMonthContainer{
+        width:50%;
+        margin-top:10px;
+    }
+    .amountContainer{
+        font-size: 74pt; 
+    }
+
+    button{
+        width: 60%;
+
+    }
+
+    .bottomTextsContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        padding-right: 183px;
+        gap:5px;
+        width:90%;
+    }
+    .greenTitle{
+        font-size: 22.5pt;
+        align-self: flex-end;
+    }
+
+    .buttomrowContainer{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .logoContainer img{
+        max-width: 60%;
+        height:auto;
+    }
+    
+}
+@media (orientation: landscape) and ( min-width: 2560px){
+    .maintitle{
+        padding-top: 143px;
+        font-size: 78.06pt; 
+    }
+    .linesContainer{
+        margin-top: 174px;
+        margin-right: 325px;
+        direction:rtl;
+        gap:5px;
+        font-size: 42.69pt;
+    }
+    .titleAndRangeContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        margin-top: 17px;
+        margin-bottom: 130px;
+    }
+    .infoModalWrapper{
+        padding-top: 28px;
+        padding-right: 325px;
+        width: 30%;
+    } 
+    .infoModalWrapperLeft{
+        padding-top: 47px;
+    }
+    .infoModalWrapperLeftFinal{
+        padding-top: 10px;
+    }
+    .infoModalWrapper span{
+        font-size: 42.69pt;
+    }
+    .infoModalWrapperLeft span{
+        font-size: 42.69pt;
+    }
+    .infoModalWrapperLeftFinal span{
+        font-size:42.69pt;
+    }
+    .iIconImage{
+        max-width: 70%;
+    }
+    .iconContainer{
+        text-align: right;
+        padding-top: 2px;
+    }
+
+    .columnLayout{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .rightColumn{
+        width:65%;
+    }
+
+    .leftColumn{
+        display:flex;
+        flex-direction: column;
+        margin-right: 60px;
+    }
+
+    .rangeSliderCWrapper{
+        width:50%;
+    }
+    .paymentMonthContainer{
+        width:50%;
+        margin-top:10px;
+    }
+    .amountContainer{
+        font-size: 99.6pt; 
+    }
+
+    button{
+        width: 50%;
+
+    }
+
+    .bottomTextsContainer{
+        display:flex;
+        flex-direction: row-reverse;
+        padding-right: 325px;
+        gap:5px;
+        width:90%;
+    }
+    .greenTitle{
+        font-size: 29.5pt;
+        align-self: flex-end;
+    }
+
+    .buttomrowContainer{
+        display:flex;
+        flex-direction: row-reverse;
+    }
+
+    .logoContainer img{
+        max-width: 60%;
+        height:auto;
+    }
+    
+}
+
+.maintitle{
+        display:flex;
+        justify-content: center;
+        color:#142341;
+         font-family: "fbspoileren-bold-webfont"; 
+    }
+
+.linesContainer{
+    display:flex; 
+    font-family: "fbspoileren-regular-webfont";
+}
+
+.infoModalWrapper{
+    display:flex;
+    justify-content: flex-end;
+    margin-bottom: 9px;
+} 
+
+.infoModalWrapperLeft{
+    display:flex;
+    justify-content: flex-end;
+    margin-bottom: 9px;
+}
+
+.infoModalWrapperLeftFinal{
+    display:flex;
+    justify-content: flex-end;
+    margin-bottom: 9px;
+}
+
+.infoModalWrapper span{
+        font-family: "FbSpoiler-Lightwebfont";
+        margin-left: 5px;
+}
+.infoModalWrapperLeft span{
+        font-family: "FbSpoiler-Lightwebfont";
+        margin-left: 5px;
+}
+.infoModalWrapperLeftFinal span{
+        font-family: "FbSpoiler-Lightwebfont";
+        margin-left: 5px;
+}
+.paymentMonthContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.amountContainer{
+        text-align: center;
+        color: #15abc4;
+        font-family: "fbspoileren-bold-webfont"; 
+    }
+
+.buttonContainer{
+    display: flex;
+    width:100%;
+    justify-content:center;
+}
+
+button{
+    background-color: #15abc4;
+    border:1px solid #f0f0f0;
+    color:white;
+    border-radius: 20px;
+    font-size: 12pt;
+    margin-bottom: 20px;
+}
+
+.greenTitle{
+display:flex;
+justify-content: center;
+color: #15abc4;
+font-family: "fbspoileren-regular-webfont";
+}
+
+.logoContainer{
+    display: flex;
+    margin-top: 20px;
+    justify-content:center;
+}
+
